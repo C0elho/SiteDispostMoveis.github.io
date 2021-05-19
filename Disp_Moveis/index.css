@@ -8,4 +8,48 @@ body {
 
 .link {
   list-style: none;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.link > li {
+  font-size: 15px;
+  display: inline;
+  margin-left: 20px;
+  float: right;
+}
+
+li > a {
+  color: #003366;
+}
+
+.cabecalho {
+  position: relative;
+  height: 125px;
+}
+
+.sacola {
+  background-image: url(img/sacola.png);
+  background-repeat: no-repeat;
+  background-position: top right;
+  font-size: 14px;
+  width: 140px;
+  padding-right: 35px;
+  text-align: right;
+  padding-top: 8px;
+  position: absolute;
+  top: 20px;
+  right: 0px;
+}
+
+.container {
+  margin: 0 auto;
+  width: 940px;
+}
+
+.logo {
+  position: relative;
+  top: 20px;
+  left: 50px;
 }
