@@ -12,7 +12,7 @@
 <meta id="Reverso_extension___elForCheckedInstallExtension" name="Reverso extension" content="2.2.202"></head>
 <body>
   <header class="container">
-      <h1><img src="img/logo.png" alt="Mirror Fashion"></h1>
+      <h1><img src="/Disp_Moveis/img/logo.png" alt="Mirror Fashion"></h1>
       <p class="sacola">
           Nenhum item na sacola de compras
       </p>
@@ -31,7 +31,7 @@
           <h2>Busca</h2>
           <form action="">
               <input type="search">
-              <input type="image" src="img/busca.png">
+              <input type="image" src="/Disp_Moveis/img/busca.png">
           </form>
       </section><!-- fim .busca -->
       <section class="menu-departamentos">
@@ -55,7 +55,7 @@
               </ul>
           </nav>
       </section><!--fim .menu-departamentos-->
-      <img src="img/destaque-home.png" alt="Promoção: Big City Night">
+      <img src="/Disp_Moveis/img/destaque-home.png" alt="Promoção: Big City Night">
   </div><!--fim .container .destaque-->
   <div class="container paineis">
       <section class="painel novidades">
@@ -72,7 +72,7 @@
               <li>
                   <a href="checkout.html">
                       <figure>
-                          <img src="img/produtos/miniatura2.png" alt="Produto 2">
+                          <img src="/Disp_Moveis/img/produtos/miniatura2.png" alt="Produto 2">
                           <figcaption>Fuzz Cardigan por R$ 129,90</figcaption>
                       </figure>
                   </a>
@@ -80,7 +80,7 @@
               <li>
                   <a href="checkout.html">
                       <figure>
-                          <img src="img/produtos/miniatura3.png" alt="Produto 3">
+                          <img src="/Disp_Moveis/img/produtos/miniatura3.png" alt="Produto 3">
                           <figcaption>Fuzz Cardigan por R$ 129,90</figcaption>
                       </figure>
                   </a>
@@ -88,7 +88,7 @@
               <li>
                   <a href="checkout.html">
                       <figure>
-                          <img src="img/produtos/miniatura4.png" alt="Produto 4">
+                          <img src="/Disp_Moveis/img/produtos/miniatura4.png" alt="Produto 4">
                           <figcaption>Fuzz Cardigan por R$ 129,90</figcaption>
                       </figure>
                   </a>
@@ -96,7 +96,7 @@
               <li>
                   <a href="checkout.html">
                       <figure>
-                          <img src="img/produtos/miniatura5.png" alt="Produto 5">
+                          <img src="/Disp_Moveis/img/produtos/miniatura5.png" alt="Produto 5">
                           <figcaption>Fuzz Cardigan por R$ 129,90</figcaption>
                       </figure>
                   </a>
@@ -104,7 +104,7 @@
               <li>
                   <a href="checkout.html">
                       <figure>
-                          <img src="img/produtos/miniatura6.png" alt="Produto 6">
+                          <img src="/Disp_Moveis/img/produtos/miniatura6.png" alt="Produto 6">
                           <figcaption>Fuzz Cardigan por R$ 129,90</figcaption>
                       </figure>
                   </a>
@@ -117,7 +117,7 @@
               <li>
                   <a href="checkout.html">
                       <figure>
-                          <img src="img/produtos/miniatura1.png" alt="Produto 1">
+                          <img src="/Disp_Moveis/img/produtos/miniatura1.png" alt="Produto 1">
                           <figcaption>Fuzz Cardigan por R$ 129,90</figcaption>
                       </figure>
                   </a>
@@ -125,7 +125,7 @@
               <li>
                   <a href="checkout.html">
                       <figure>
-                          <img src="img/produtos/miniatura2.png" alt="Produto 2">
+                          <img src="/Disp_Moveis/img/produtos/miniatura2.png" alt="Produto 2">
                           <figcaption>Fuzz Cardigan por R$ 129,90</figcaption>
                       </figure>
                   </a>
@@ -133,7 +133,7 @@
               <li>
                   <a href="checkout.html">
                       <figure>
-                          <img src="img/produtos/miniatura3.png" alt="Produto 3">
+                          <img src="/Disp_Moveis/img/produtos/miniatura3.png" alt="Produto 3">
                           <figcaption>Fuzz Cardigan por R$ 129,90</figcaption>
                       </figure>
                   </a>
@@ -141,7 +141,7 @@
               <li>
                   <a href="checkout.html">
                       <figure>
-                          <img src="img/produtos/miniatura4.png" alt="Produto 4">
+                          <img src="/Disp_Moveis/img/produtos/miniatura4.png" alt="Produto 4">
                           <figcaption>Fuzz Cardigan por R$ 129,90</figcaption>
                       </figure>
                   </a>
@@ -149,7 +149,7 @@
               <li>
                   <a href="checkout.html">
                       <figure>
-                          <img src="img/produtos/miniatura5.png" alt="Produto 5">
+                          <img src="/Disp_Moveis/img/produtos/miniatura5.png" alt="Produto 5">
                           <figcaption>Fuzz Cardigan por R$ 129,90</figcaption>
                       </figure>
                   </a>
@@ -157,7 +157,7 @@
               <li>
                   <a href="checkout.html">
                       <figure>
-                          <img src="img/produtos/miniatura6.png" alt="Produto 6">
+                          <img src="/Disp_Moveis/img/produtos/miniatura6.png" alt="Produto 6">
                           <figcaption>Fuzz Cardigan por R$ 129,90</figcaption>
                       </figure>
                   </a>
@@ -167,7 +167,7 @@
   </div>
   <footer>
       <div class="container">
-          <img src="img/logo-rodape.png" alt="Logo Mirror Fashion">
+          <img src="/Disp_Moveis/img/logo-rodape.png" alt="Logo Mirror Fashion">
           <ul class="social">
               <li>
                   <a href="https://www.facebook.com/mirrorfashion">Facebook</a>
