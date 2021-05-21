@@ -31,7 +31,7 @@
           <h2>Busca</h2>
           <form action="">
               <input type="search">
-              <input type="image" src="/Disp_Moveis/img/busca.png">
+              <input type="image" src="/Disp_Moveis/img/busca.png"> 
           </form>
       </section><!-- fim .busca -->
       <section class="menu-departamentos">
