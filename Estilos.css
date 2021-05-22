@@ -10,7 +10,7 @@ header {
   position: relative;
 }
 .sacola {
-  background: url(/Disp_Moveis/img/sacola.png) no-repeat top right;
+  background: url(Disp_Moveis/img/sacola.png) no-repeat top right;
   font-size: 14px;
   padding-right: 35px;
   padding-top: 8px;
