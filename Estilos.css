@@ -5,6 +5,7 @@ body {
 .container {
   margin: 0 auto;
   width: 940px;
+  background-color: transparent;
 }
 header {
   position: relative;
