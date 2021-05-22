@@ -72,7 +72,7 @@
               <li>
                   <a href="checkout.html">
                       <figure>
-                          <img src="Disp_Moveis/img/produtos/miniatura2.png" alt="Produto 2">
+                          <img src="Disp_Moveis/img/produtos/miniatura1.png" alt="Produto 2">
                           <figcaption>Fuzz Cardigan por R$ 129,90</figcaption>
                       </figure>
                   </a>
@@ -80,7 +80,7 @@
               <li>
                   <a href="checkout.html">
                       <figure>
-                          <img src="Disp_Moveis/img/produtos/miniatura3.png" alt="Produto 3">
+                          <img src="Disp_Moveis/img/produtos/miniatura1.png" alt="Produto 3">
                           <figcaption>Fuzz Cardigan por R$ 129,90</figcaption>
                       </figure>
                   </a>
