@@ -3,7 +3,7 @@
 <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width">
   <title>Mirror Fashion</title>
-  <link rel="stylesheet" href="Estilos.css">
+  <link rel="stylesheet" href="Disp_Moveis/Estilos.css">
   <link rel="stylesheet" href="reset.css">
   <link rel="stylesheet" href="mobile.css" media="(max-width: 939px)">
   
