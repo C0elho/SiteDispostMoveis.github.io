@@ -166,7 +166,7 @@
   </div>
   <footer>
       <div class="container">
-          <img src="Disp_Moveis/img/logo-rodape.png" alt="Logo Mirror Fashion">
+          <img src="disp_Moveis/img/logo-rodape.png" alt="Logo Mirror Fashion">
           <ul class="social">
               <li>
                   <a href="https://www.facebook.com/mirrorfashion">Facebook</a>
