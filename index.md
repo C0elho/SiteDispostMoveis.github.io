@@ -55,7 +55,7 @@
               </ul>
           </nav>
       </section><!--fim .menu-departamentos-->
-      <img src="/Disp_Moveis/img/destaque-home.png" alt="Promoção: Big City Night">
+      <img src="Disp_Moveis/img/destaque-home.png" alt="Promoção: Big City Night">
   </div><!--fim .container .destaque-->
   <div class="container paineis">
       <section class="painel novidades">
