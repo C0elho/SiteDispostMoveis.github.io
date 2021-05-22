@@ -5,7 +5,6 @@ body {
 .container {
   margin: 0 auto;
   width: 940px;
-  background-color: transparent;
 }
 header {
   position: relative;
@@ -165,6 +164,7 @@ footer .container {
 .social li {
   float: left;
   margin-left: 25px;
+    background-color: transparent;
 }
 .social a {
   height: 32px;
